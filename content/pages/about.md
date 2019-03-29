@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: ABOUT ME
+slug: '{{about}}'
 draft: false
 ---
 Hey There!
