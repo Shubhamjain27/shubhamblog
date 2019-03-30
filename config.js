@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Founder @ Alazia, Researchshala.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: '',
   menu: [
     {
