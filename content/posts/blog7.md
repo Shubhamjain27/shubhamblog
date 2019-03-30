@@ -22,7 +22,7 @@ The first step towards antifragility is to first decrease downside, rather than 
 
 Barbell : A bar with weights on both ends that weight lifters use - Picture.
 
-![](/media/barbell.jpeg)
+![](/media/barbell.jpg)
 
 It represents an attitude of playing it safe in some areas and taking a lot of risks in others - i.e. extreme risk aversion on one side and extreme risk loving on the other, rather than just the medium.
 
