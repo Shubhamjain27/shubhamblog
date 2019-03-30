@@ -3,7 +3,7 @@ title: Why Go To Market is Important
 date: "2019-03-29"
 template: "post"
 draft: false
-slug: "/posts/advice-for-Product-Managers/"
+slug: "/posts/go-to-market/"
 category: "Tech"
 tags:
   - "Starups"

@@ -3,7 +3,7 @@ title: Why I Pivoted
 date: "2019-03-29"
 template: "post"
 draft: false
-slug: "/posts/advice-for-Product-Managers/"
+slug: "/posts/Pivot/"
 category: "Startups"
 tags:
   - "Starups"

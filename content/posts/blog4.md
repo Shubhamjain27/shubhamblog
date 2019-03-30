@@ -3,7 +3,7 @@ title: VC as career — The other side
 date: "2019-03-29"
 template: "post"
 draft: false
-slug: "/posts/advice-for-Product-Managers/"
+slug: "/posts/VC-career/"
 category: "Startups"
 tags:
   - "Starups"

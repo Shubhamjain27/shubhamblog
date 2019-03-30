@@ -3,7 +3,7 @@ title: The Career Secrets
 date: "2019-03-29"
 template: "post"
 draft: false
-slug: "/posts/advice-for-Product-Managers/"
+slug: "/posts/career-secrets/"
 category: "Careers"
 tags:
   - "Careers"
