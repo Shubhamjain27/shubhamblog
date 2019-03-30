@@ -1,6 +1,6 @@
 ---
 title: Regex
-date: "2019-03-30"
+date: "2019-03-29"
 template: "post"
 draft: false
 slug: "/posts/Regex/"
