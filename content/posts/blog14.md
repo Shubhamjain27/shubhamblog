@@ -1,3 +1,4 @@
+---
 title: How to think about Career
 date: "2019-06-10"
 template: "post"

@@ -1,3 +1,4 @@
+---
 title: How to spend time in College
 date: "2019-05-31"
 template: "post"
