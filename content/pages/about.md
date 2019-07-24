@@ -7,9 +7,9 @@ Hey There!
 ![](/media/goa.jpeg)
 
 
-I founded Researchshala - a startup to help Professors in their research projects, in my sophomore year. Currently, I am working on Alazia - a text automation product. 
+I founded Researchshala - a startup to help Professors in their research projects, in my sophomore year. Then for 3 months I worked on Alazia - a text automation product. Currently, I am pursuing an AI fellowship - Plaksha TLF, to clear my ML basics and improve my coding skills.
 
-I will be graduating in May 2019. I am deeply interested in AI and will pursue my career in it.  
+I graduated in May 2019. I am deeply interested in AI and am pursuing my career in the field. 
 
 I am inspired by folks on Twitter who share so much of knowledge on daily basis. I am fortunate to learn from them early in my career. 
 
