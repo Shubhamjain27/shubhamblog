@@ -1,6 +1,6 @@
 ---
 title: Stoicism 101 and Antifragilty
-date: "2019-03-30"
+date: "2019-04-30"
 template: "post"
 draft: false
 slug: "/posts/stoicism-101/"
