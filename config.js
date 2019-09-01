@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Shubham Jain',
     photo: '/photo.jpg',
-    bio: 'Founder @ Researchshala, Alazia. I write about AI, Startups, Rationality and my life.',
+    bio: 'Plaksha Tech Leader Fellow. Ex-Founder @ Alazia, Researchshala. I write about AI, Startups, Rationality and my life.',
     contacts: {
       email: 'jain.shubham11@gmail.com',
       linkedin: 'https://www.linkedin.com/in/shubhamjain27/',
