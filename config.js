@@ -3,10 +3,10 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   title: 'Shubham Jain',
-  subtitle: 'Founder @ Alazia, Researchshala.',
+  subtitle: 'Plaksha Tech Leader Fellow. Ex-Founder @ Alazia, Researchshala.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 6,
+  postsPerPage: 8,
   googleAnalyticsId: '',
   menu: [
     {
