@@ -16,8 +16,8 @@ Exactly one month back I packed my bags and moved outside home for the first tim
 
 2. Teamwork - Not throwing a jargon, because earlier I also used to ignore people trying to teach 'teamwork'. In the past one month, I would have worked in 6-7 different teams, and according to me this has been the best part of fellowship till now. We end up learning so much from each other, having deep conversations, challenging each other. They didn't lecture us on leadership, but rather gave us many tasks - from solving an unsolvable puzzle for the whole night, to going out and bringing the most valuable item in exchange of a pen. Here are a couple of my favourite lessons which I learned by doing- 
 
-- Do yourself what you want others to do. Act of doing is much more effective than words. Do before you delegate. 
-- Divergent Thinking. Try to find a hack to solve the problem,or redefine the problem. It can be super fun and rewarding.
+  - Do yourself what you want others to do. Act of doing is much more effective than words. Do before you delegate. 
+  - Divergent Thinking. Try to find a hack to solve the problem,or redefine the problem. It can be super fun and rewarding.
 
 3. Learning from Peers- Apart from the classroom learning, I learned a lot from the other teams/fellows on how they approached the same problem given to all of us. The feeling of 'Why I didn't think of that' is quite helpful in learning.
 
@@ -28,4 +28,4 @@ Exactly one month back I packed my bags and moved outside home for the first tim
 There have been numerous other learnings. It has been a great journey till now and I am sure next month I will have much more to share. Thanks for reading!
 
 
-![](/media/plaksha1.jpeg)
+![](/media/plaksha1.jpg)
