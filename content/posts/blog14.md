@@ -7,7 +7,7 @@ slug: "/posts/careerdecision/"
 category: "Careers"
 tags:
   - "Careers"
-description: "Some frameworks I used while deciding on my carrer"
+description: "Some frameworks I used while deciding on my career"
 ---
 
 
