@@ -14,7 +14,7 @@ Backprop is a dynamic programming hack to store the local derivatives for each n
 
 Local gradients for a neuron is the derivative of it's output wrt each of it's input(weights, biases, previous layer ouput). 
 
-![Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_6.22.28_PM.png](Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_6.22.28_PM.png)
+![](/media/Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_6.22.28_PM.png)
 
 Note: for a neuron, it involoves 2 steps - calculatuing the matmul, and passing the matmul through an activation function. For a neuron with activation function f,
 
@@ -72,11 +72,11 @@ Additional Note:
 
 Derivative of softmax - 
 
-![Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_7.28.45_PM.png](Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_7.28.45_PM.png)
+![](/media/Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Screen_Shot_2020-06-13_at_7.28.45_PM.png)
 
 Derivative of sigmoid - 
 
-![Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Untitled.png](Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Untitled.png)
+![](/media/Backprop%20Implementation%20316a255396d34f86a1eef2afe9638ba8/Untitled.png)
 
 For binary cross entropy with sigmoid activation, the derivative is - 
 
