@@ -7,7 +7,7 @@ slug: "/posts/collatefn/"
 category: "Tech"
 tags:
   - "Tech"
-description: "How Pytorch perfroms batching"
+description: "How Pytorch performs batching"
 ---
 
 I was stuck for a while on collate function. I could not find any resource which simple explains what collate function does and why is it needed. Here is my attempt at explaining it, hopefully helpful to someone in future, especially when creating custom collate function.

@@ -7,7 +7,7 @@ slug: "/posts/tlf-tips/"
 category: "Plaksha"
 tags:
   - "Plaksha"
-description: "How to get maximun out of your time at Plaksha"
+description: "How to get maximum out of your time at Plaksha"
 ---
 
 In yesterday's session, I could see confusion among some fellows on the year ahead at Plaksha. I jotted down some things which were helpful to me in my Plaksha journey, and might be useful to some of you.
