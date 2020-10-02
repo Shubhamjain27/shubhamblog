@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   title: 'Shubham Jain',
-  subtitle: 'Plaksha Tech Leader Fellow. Ex-Founder @ Alazia, Researchshala.',
+  subtitle: 'Lead Research Engineer @ Avataar.me.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 8,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Shubham Jain',
     photo: '/photo.jpg',
-    bio: 'Plaksha Tech Leader Fellow. Ex-Founder @ Alazia, Researchshala. I write about AI, Startups, Rationality and my life.',
+    bio: 'Lead Research Engineer @ Avataar.me. Plaksha TLF (Founding batch). Ex-Founder: Researchshala. Generating stuff using AI.'
     contacts: {
       email: 'jain.shubham11@gmail.com',
       linkedin: 'https://www.linkedin.com/in/shubhamjain27/',
