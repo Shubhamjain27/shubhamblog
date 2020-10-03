@@ -27,6 +27,4 @@ Twitter University has also played an important role in my life. Learned and got
 
 I have been living in Chandigarh, India since my birth. That said, I have travelled across India to study people in Starbucks xD
 
-Don't know where is next!
-
-Hit me up at jain.shubham11@gmail.com, if I can be of any help :)
+Thanks for visiting!

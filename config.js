@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Shubham Jain',
     photo: '/photo.jpg',
-    bio: 'Lead Research Engineer @ Avataar.me. Plaksha TLF (Founding batch). Ex-Founder: Researchshala. Generating stuff using AI.',
+    bio: 'Lead Research Engineer @ Avataar.me (AI+AR/VR). Plaksha TLF. Ex-Founder: Researchshala. Generating stuff using AI.',
     contacts: {
       email: 'jain.shubham11@gmail.com',
       linkedin: 'https://www.linkedin.com/in/shubhamjain27/',
