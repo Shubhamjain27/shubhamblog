@@ -3,7 +3,7 @@ title: Realization on a birthday
 date: "2020-06-03"
 template: "post"
 draft: false
-slug: "/posts/turning23/"
+slug: "/posts/turning/"
 category: "Life"
 tags:
   - "Life"
