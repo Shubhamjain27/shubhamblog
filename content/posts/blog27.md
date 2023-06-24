@@ -22,4 +22,4 @@ Things that have never happened before happen all the time
 
 If you want to do better as an investor, the single most powerful thing you can do is increase your time horizon. Time is the most powerful force in investing.
 
-Also remember that your health, family, friends respect is equally if not mrore valuable than money.
+Also remember that your health, family, friends respect is equally if not more valuable than money.
