@@ -1,6 +1,6 @@
 ---
 title: Blogging after 3 years hiatus
-date: "2023-06-42"
+date: "2023-06-24"
 template: "post"
 draft: false
 slug: "/posts/iamback/"
